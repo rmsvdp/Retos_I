@@ -8,7 +8,7 @@
  * 
  * Como todos los métodos son estáticos, si se precisan métodos auxiliares se deberán
  * declarar también como estáticos.
- * 
+ * 04/01/2024 -- Retos 1,2 y 3 completos
  * @author root
  *
  */
